@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/uart_dma.c:88:17:get_system_clock	5
+../Core/Src/uart_dma.c:110:17:get_apb1_clock	2
+../Core/Src/uart_dma.c:119:17:get_apb2_clock	2
+../Core/Src/uart_dma.c:130:13:uart_set_baudrate	2
+../Core/Src/uart_dma.c:140:6:debug_uart_init	1
+../Core/Src/uart_dma.c:161:6:debug_send	3
+../Core/Src/uart_dma.c:172:13:tim3_init	1
+../Core/Src/uart_dma.c:190:6:uart1_rx_tx_init	1
+../Core/Src/uart_dma.c:228:6:dma2_init	1
+../Core/Src/uart_dma.c:239:6:dma2_stream2_uart_rx_config	2
+../Core/Src/uart_dma.c:277:6:dma2_stream7_uart_tx_config	2
+../Core/Src/uart_dma.c:309:6:DMA2_Stream7_IRQHandler	3
+../Core/Src/uart_dma.c:323:6:DMA2_Stream2_IRQHandler	5
+../Core/Src/uart_dma.c:350:6:TIM3_IRQHandler	1
+../Core/Src/uart_dma.c:358:6:USART1_IRQHandler	11

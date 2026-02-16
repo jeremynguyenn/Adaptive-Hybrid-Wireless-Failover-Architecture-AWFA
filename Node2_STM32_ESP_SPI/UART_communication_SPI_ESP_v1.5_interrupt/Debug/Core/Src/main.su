@@ -1,0 +1,2 @@
+../Core/Src/main.c:12:13:uart_print_buffer	32	static
+../Core/Src/main.c:32:5:main	16	static

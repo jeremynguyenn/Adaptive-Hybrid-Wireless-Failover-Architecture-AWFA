@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Core/Src/dma.c:17:6:dma2_mem2mem_config	2
+../Core/Src/dma.c:71:6:dma_transfer_start	1
+../Core/Src/dma.c:88:6:DMA2_Stream0_IRQHandler	3
